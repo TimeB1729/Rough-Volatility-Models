@@ -1,4 +1,4 @@
-#Rough Volatility Models in Option Pricing
+# Rough Volatility Models in Option Pricing
 
 Author: Shyam Banerjee
 
